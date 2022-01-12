@@ -3,10 +3,10 @@
 I'm  a self-taught developer, who loves to learn new skills and face new challenges.
 I'm looking for new opportunities to improve even further.
 
-### I code with
-REACT / JS / HTML / CSS 
+### I code with:
+REACT / JS / HTML / SCSS 
 
-### Where to find me
+### Where to find me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Andro87)  
 
