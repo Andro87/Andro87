@@ -13,8 +13,9 @@ I'm looking for new opportunities to improve even further.
 -----
 
 ### ...more about me...
-- I am Italian 
-- I enjoy cooking and eating food of course 😎
+
+- I am Italian
+- I enjoy cooking and eating food of course <img src="https://media1.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif?cid=ecf05e47ib71lujdo4e2ivdbiwk1aco3j2ao4nbmw4temwkj&rid=giphy.gif&ct=g"  width="30">
 - I love nature 🌸 🌳, to see new places 🌍 and exploring 🚴‍♀️
 - I am a lover of art 🖼️  and books 📚
 
